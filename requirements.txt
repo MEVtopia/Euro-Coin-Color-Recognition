@@ -1,0 +1,7 @@
+pip install json
+pip install matplotlib
+pip install numpy
+pip install pillow
+pip install opencv-python
+pip install scikit-image
+pip install pathlib
